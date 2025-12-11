@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/a79d647078d07b60.js","/_next/static/chunks/247eb132b7f7b574.js","/_next/static/chunks/cd08b1451a6ab4cb.js","/_next/static/chunks/d4b95dcbb180278d.js"],"ViewportBoundary"]
+4:I[97367,["/_next/static/chunks/a79d647078d07b60.js","/_next/static/chunks/247eb132b7f7b574.js","/_next/static/chunks/cd08b1451a6ab4cb.js","/_next/static/chunks/d4b95dcbb180278d.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"xguQLMWkuubObUMi9zR1D","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"RentMyX - Rent Influencer Profiles with USDC"}],["$","meta","1",{"name":"description","content":"Web3-enabled marketplace for renting X (Twitter) influencer profiles"}]]
